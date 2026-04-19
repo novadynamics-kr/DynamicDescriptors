@@ -17,7 +17,6 @@
   </PropertyGroup>
 
   <PropertyGroup>
-    <TargetFrameworks></TargetFrameworks>
     <LangVersion>latest</LangVersion>
     <GenerateDocumentationFile>true</GenerateDocumentationFile>
     <TargetFramework>net10.0-windows</TargetFramework>
